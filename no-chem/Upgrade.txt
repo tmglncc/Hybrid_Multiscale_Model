@@ -1,0 +1,16 @@
+- ConfigHandler.cpp
+	- Incluir alphaM, tauM = 1.0, chi = 50.0;
+
+- Cell.cpp
+	- Incluir state == 7 (Migrate)
+
+- CellManipulation.cpp
+	- Criar um vetor f de tamanho n*m para a força haptotática
+	- Incluir state == 7 no cálculo do pathway
+	- Transição da quiescente para migratória
+	- Transição da migratória para quiescente
+	- Criar uma função para o cálculo do gradiente de f
+	- Modificar o cálculo da velocidade
+
+- Cell.hpp, Render.cpp, ConfigHandler.hpp (Visualizador)
+	- Incluir a célula migratória

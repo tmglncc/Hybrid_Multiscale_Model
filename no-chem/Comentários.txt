@@ -1,0 +1,66 @@
+- Passar versão completa do ABM
+
+- ConfigHandler
+	- seed fixo ou variável
+	- time-max em horas
+	- file-format de acordo com a condição inicial
+	- Escolher os tempos de escrita em arquivo
+	- o-consumption-border -> o-border
+	- egf-source-border -> egf-initial-condition
+	- egf-source = 2.65; // Wang, 2007
+	- max-out-cells: compatibilizar com o tamanho do domínio (input data)
+	- delta_tt = tamanho do passo do ABM
+	- Compatibilizar o deltaT (contínuo) e o delta_tt (ABM)
+	- alphaP, alphaA => 1.0/alphaP, 1.0/alphaA
+
+- Pathway
+	- kV, kmK, IC // Wang, 2007
+	- Definir os thresholds do controle intracelular ROC_PLC, ROC_ERK
+
+- Frame
+	- outCells de um tempo i é acumulado no tempo i+1
+	- Criar apenas uma estrutura de dados Vector
+
+- Mesh
+	- matrixSize = n x n nós do domínio 2D
+	- Inicialização de refined para malhas com espaçamentos diferentes em direções diferentes
+	- sigma = variável para uma constante do sistema linear
+
+- Initial condition
+	- Arquivos ABM Tools faz o pré-processamento para a montagem da condição inicial
+		- GENERATE INITIAL CONDITION 2D/3D: gera células até preencher o domínio
+		- CHANGE DATA: altera fenótipos
+		- CELLSGENERATE: gera as figuras em tikz
+		- PLOT FORÇA HAPT: gera a matriz extracelular
+		- SORTEIO3D: teste para calcular a normal em domínio 3D
+		- TEST EGF: teste para calcular a concentração de EGF
+		- VARIANCIA (EGF): teste para verificar os thresholds ROC_PLC, ROC_ERK
+
+- Macro
+	- Verificar inicialização do uptakeMesh, sourceMesh
+	- Verificar for em i e j
+	- Trocar estado da célula por variável
+	- Verificar os parâmetros do GMRES
+	- Passar timeMax para ConfigHandler
+
+- CellManipulation
+	- Trocar estado da célula por variável
+	- Armazenar frame->cells[i].calcification em outra variável (Apoptose)
+	- Armazenar frame->cells[i].calcification em outra variável (Necrose)
+	- Conferir dinâmica quando tau - config->parameters.tauNL < 8
+	- Trocar tau == 9 por tau == tauP - tauG1
+	- Pensar na inserção e remoção de células
+	- Colocar a função force dentro da função updateFrame
+	- Alterar tipo das variáveis F_cca e F_ccr
+
+Execução ABM
+	I) make clean
+	II) make
+	III) ./build/main.exe config-2D.cfg 
+
+Visualizador
+	I) make clean
+	II) make
+	III) Alterar paths/files em config.cfg
+	IV) Alterar file/format em config.cfg
+	V) make run

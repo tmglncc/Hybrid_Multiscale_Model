@@ -1,0 +1,4493 @@
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 93--- Final residual = 9.95564e-06
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.51749e-16
+============================================
+Time = 1 h
+Tumor cells = 4
+Normal cells = 742
+Total agents = 746
+Total cells left = 18
+============================================
+Forces... (12 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 80--- Final residual = 5.98003e-10
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 8.93973e-17
+============================================
+Time = 2 h
+Tumor cells = 4
+Normal cells = 735
+Total agents = 739
+Total cells left = 25
+============================================
+Forces... (12 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 92--- Final residual = 7.26109e-10
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.15723e-17
+============================================
+Time = 3 h
+Tumor cells = 4
+Normal cells = 728
+Total agents = 732
+Total cells left = 32
+============================================
+Forces... (11 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 85--- Final residual = 7.38577e-10
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.79545e-28
+============================================
+Time = 4 h
+Tumor cells = 4
+Normal cells = 722
+Total agents = 726
+Total cells left = 38
+============================================
+Forces... (11 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 97--- Final residual = 6.98326e-10
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.01934e-16
+============================================
+Time = 5 h
+Tumor cells = 4
+Normal cells = 710
+Total agents = 714
+Total cells left = 50
+============================================
+Forces... (11 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 87--- Final residual = 6.52591e-10
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 9.38608e-17
+============================================
+Time = 6 h
+Tumor cells = 4
+Normal cells = 704
+Total agents = 708
+Total cells left = 56
+============================================
+Forces... (10 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 84--- Final residual = 8.21018e-10
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 3.56832e-16
+============================================
+Time = 7 h
+Tumor cells = 4
+Normal cells = 698
+Total agents = 702
+Total cells left = 62
+============================================
+Forces... (9 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 89--- Final residual = 9.26994e-10
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 3.98268e-16
+============================================
+Time = 8 h
+Tumor cells = 4
+Normal cells = 692
+Total agents = 696
+Total cells left = 68
+============================================
+Forces... (6 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 94--- Final residual = 7.52685e-10
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.8011e-28
+============================================
+Time = 9 h
+Tumor cells = 6
+Normal cells = 688
+Total agents = 694
+Total cells left = 72
+============================================
+Forces... (14 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 79--- Final residual = 1.05261e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 3.86335e-28
+============================================
+Time = 10 h
+Tumor cells = 7
+Normal cells = 680
+Total agents = 687
+Total cells left = 80
+============================================
+Forces... (12 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 101--- Final residual = 2.67479e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.83866e-16
+============================================
+Time = 11 h
+Tumor cells = 7
+Normal cells = 675
+Total agents = 682
+Total cells left = 85
+============================================
+Forces... (12 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 102--- Final residual = 1.5326e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 3.29859e-16
+============================================
+Time = 12 h
+Tumor cells = 7
+Normal cells = 673
+Total agents = 680
+Total cells left = 87
+============================================
+Forces... (10 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 102--- Final residual = 7.95515e-09
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.13485e-16
+============================================
+Time = 13 h
+Tumor cells = 7
+Normal cells = 669
+Total agents = 676
+Total cells left = 91
+============================================
+Forces... (6 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 103--- Final residual = 4.97971e-09
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.37198e-16
+============================================
+Time = 14 h
+Tumor cells = 7
+Normal cells = 665
+Total agents = 672
+Total cells left = 95
+============================================
+Forces... (4 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 104--- Final residual = 7.65086e-09
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.82849e-16
+============================================
+Time = 15 h
+Tumor cells = 7
+Normal cells = 665
+Total agents = 672
+Total cells left = 95
+============================================
+Forces... (12 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 103--- Final residual = 6.12042e-09
+EGF Concentration...
+============================================
+Time = 16 h
+Tumor cells = 7
+Normal cells = 664
+Total agents = 671
+Total cells left = 96
+============================================
+Forces... (8 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 103--- Final residual = 5.32453e-09
+EGF Concentration...
+============================================
+Time = 17 h
+Tumor cells = 7
+Normal cells = 661
+Total agents = 668
+Total cells left = 99
+============================================
+Forces... (6 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 103--- Final residual = 5.49045e-09
+EGF Concentration...
+============================================
+Time = 18 h
+Tumor cells = 7
+Normal cells = 656
+Total agents = 663
+Total cells left = 104
+============================================
+Forces... (9 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 101--- Final residual = 7.66334e-09
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.55304e-16
+============================================
+Time = 19 h
+Tumor cells = 7
+Normal cells = 654
+Total agents = 661
+Total cells left = 106
+============================================
+Forces... (10 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 97--- Final residual = 2.53323e-09
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.04848e-15
+============================================
+Time = 20 h
+Tumor cells = 7
+Normal cells = 654
+Total agents = 661
+Total cells left = 106
+============================================
+Forces... (11 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 77--- Final residual = 5.65865e-09
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 3.47194e-16
+============================================
+Time = 21 h
+Tumor cells = 7
+Normal cells = 651
+Total agents = 658
+Total cells left = 109
+============================================
+Forces... (11 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 87--- Final residual = 6.11825e-09
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 3.35418e-16
+============================================
+Time = 22 h
+Tumor cells = 7
+Normal cells = 651
+Total agents = 658
+Total cells left = 109
+============================================
+Forces... (10 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 92--- Final residual = 8.29695e-10
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.95465e-16
+============================================
+Time = 23 h
+Tumor cells = 7
+Normal cells = 651
+Total agents = 658
+Total cells left = 109
+============================================
+Forces... (10 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 97--- Final residual = 1.10307e-09
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.89783e-28
+============================================
+Time = 24 h
+Tumor cells = 8
+Normal cells = 650
+Total agents = 658
+Total cells left = 110
+============================================
+Forces... (11 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 85--- Final residual = 9.94067e-09
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.30612e-16
+============================================
+Time = 25 h
+Tumor cells = 8
+Normal cells = 650
+Total agents = 658
+Total cells left = 110
+============================================
+Forces... (10 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 102--- Final residual = 9.76633e-09
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 3.33724e-28
+============================================
+Time = 26 h
+Tumor cells = 8
+Normal cells = 649
+Total agents = 657
+Total cells left = 111
+============================================
+Forces... (10 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 93--- Final residual = 2.52692e-09
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.13032e-16
+============================================
+Time = 27 h
+Tumor cells = 8
+Normal cells = 649
+Total agents = 657
+Total cells left = 111
+============================================
+Forces... (10 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 102--- Final residual = 3.8201e-09
+EGF Concentration...
+============================================
+Time = 28 h
+Tumor cells = 9
+Normal cells = 648
+Total agents = 657
+Total cells left = 112
+============================================
+Forces... (11 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 87--- Final residual = 9.60174e-09
+EGF Concentration...
+============================================
+Time = 29 h
+Tumor cells = 11
+Normal cells = 647
+Total agents = 658
+Total cells left = 113
+============================================
+Forces... (16 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 95--- Final residual = 1.89584e-08
+EGF Concentration...
+============================================
+Time = 30 h
+Tumor cells = 11
+Normal cells = 647
+Total agents = 658
+Total cells left = 113
+============================================
+Forces... (14 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 102--- Final residual = 2.22898e-08
+EGF Concentration...
+============================================
+Time = 31 h
+Tumor cells = 12
+Normal cells = 646
+Total agents = 658
+Total cells left = 114
+============================================
+Forces... (11 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 96--- Final residual = 1.323e-08
+EGF Concentration...
+============================================
+Time = 32 h
+Tumor cells = 12
+Normal cells = 643
+Total agents = 655
+Total cells left = 117
+============================================
+Forces... (11 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 103--- Final residual = 1.56128e-08
+EGF Concentration...
+============================================
+Time = 33 h
+Tumor cells = 12
+Normal cells = 642
+Total agents = 654
+Total cells left = 118
+============================================
+Forces... (10 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 102--- Final residual = 8.68642e-09
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.94935e-16
+============================================
+Time = 34 h
+Tumor cells = 13
+Normal cells = 640
+Total agents = 653
+Total cells left = 120
+============================================
+Forces... (13 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 96--- Final residual = 1.26269e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.31979e-16
+============================================
+Time = 35 h
+Tumor cells = 13
+Normal cells = 640
+Total agents = 653
+Total cells left = 120
+============================================
+Forces... (12 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 101--- Final residual = 1.53556e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.27973e-16
+============================================
+Time = 36 h
+Tumor cells = 14
+Normal cells = 640
+Total agents = 654
+Total cells left = 120
+============================================
+Forces... (8 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 97--- Final residual = 1.18131e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 3.94425e-17
+============================================
+Time = 37 h
+Tumor cells = 14
+Normal cells = 638
+Total agents = 652
+Total cells left = 122
+============================================
+Forces... (11 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 102--- Final residual = 1.47502e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.20057e-16
+============================================
+Time = 38 h
+Tumor cells = 14
+Normal cells = 636
+Total agents = 650
+Total cells left = 124
+============================================
+Forces... (9 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 100--- Final residual = 1.0039e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 9.1539e-16
+============================================
+Time = 39 h
+Tumor cells = 14
+Normal cells = 636
+Total agents = 650
+Total cells left = 124
+============================================
+Forces... (6 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 98--- Final residual = 7.40566e-09
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.78384e-16
+============================================
+Time = 40 h
+Tumor cells = 14
+Normal cells = 636
+Total agents = 650
+Total cells left = 124
+============================================
+Forces... (6 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 97--- Final residual = 7.2092e-09
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.76849e-16
+============================================
+Time = 41 h
+Tumor cells = 14
+Normal cells = 634
+Total agents = 648
+Total cells left = 126
+============================================
+Forces... (4 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 97--- Final residual = 5.95757e-09
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.26904e-16
+============================================
+Time = 42 h
+Tumor cells = 14
+Normal cells = 633
+Total agents = 647
+Total cells left = 127
+============================================
+Forces... (6 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 96--- Final residual = 5.66363e-09
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 3.05297e-16
+============================================
+Time = 43 h
+Tumor cells = 15
+Normal cells = 632
+Total agents = 647
+Total cells left = 128
+============================================
+Forces... (11 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 86--- Final residual = 9.98756e-09
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.55745e-16
+============================================
+Time = 44 h
+Tumor cells = 15
+Normal cells = 631
+Total agents = 646
+Total cells left = 129
+============================================
+Forces... (8 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 99--- Final residual = 1.19729e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 9.77736e-16
+============================================
+Time = 45 h
+Tumor cells = 15
+Normal cells = 630
+Total agents = 645
+Total cells left = 130
+============================================
+Forces... (4 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 95--- Final residual = 5.93776e-09
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.05189e-15
+============================================
+Time = 46 h
+Tumor cells = 16
+Normal cells = 629
+Total agents = 645
+Total cells left = 131
+============================================
+Forces... (11 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 88--- Final residual = 1.0405e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.16151e-16
+============================================
+Time = 47 h
+Tumor cells = 17
+Normal cells = 627
+Total agents = 644
+Total cells left = 133
+============================================
+Forces... (10 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 95--- Final residual = 1.30376e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.78541e-16
+============================================
+Time = 48 h
+Tumor cells = 18
+Normal cells = 626
+Total agents = 644
+Total cells left = 134
+============================================
+Forces... (13 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 98--- Final residual = 1.3951e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.8022e-16
+============================================
+Time = 49 h
+Tumor cells = 19
+Normal cells = 625
+Total agents = 644
+Total cells left = 135
+============================================
+Forces... (14 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 97--- Final residual = 1.77731e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 7.16934e-16
+============================================
+Time = 50 h
+Tumor cells = 19
+Normal cells = 625
+Total agents = 644
+Total cells left = 135
+============================================
+Forces... (13 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 99--- Final residual = 1.35102e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.01521e-16
+============================================
+Time = 51 h
+Tumor cells = 19
+Normal cells = 625
+Total agents = 644
+Total cells left = 135
+============================================
+Forces... (12 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 97--- Final residual = 7.3422e-09
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 3.96522e-16
+============================================
+Time = 52 h
+Tumor cells = 22
+Normal cells = 624
+Total agents = 646
+Total cells left = 136
+============================================
+Forces... (11 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 94--- Final residual = 1.20589e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.23834e-16
+============================================
+Time = 53 h
+Tumor cells = 22
+Normal cells = 622
+Total agents = 644
+Total cells left = 138
+============================================
+Forces... (12 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 98--- Final residual = 2.45138e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.50561e-16
+============================================
+Time = 54 h
+Tumor cells = 22
+Normal cells = 622
+Total agents = 644
+Total cells left = 138
+============================================
+Forces... (9 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 94--- Final residual = 1.1319e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.57018e-16
+============================================
+Time = 55 h
+Tumor cells = 24
+Normal cells = 622
+Total agents = 646
+Total cells left = 138
+============================================
+Forces... (12 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 97--- Final residual = 1.34315e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.01816e-16
+============================================
+Time = 56 h
+Tumor cells = 24
+Normal cells = 619
+Total agents = 643
+Total cells left = 141
+============================================
+Forces... (11 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 97--- Final residual = 1.8609e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.05181e-15
+============================================
+Time = 57 h
+Tumor cells = 24
+Normal cells = 617
+Total agents = 641
+Total cells left = 143
+============================================
+Forces... (12 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 92--- Final residual = 1.01767e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.06454e-15
+============================================
+Time = 58 h
+Tumor cells = 24
+Normal cells = 617
+Total agents = 641
+Total cells left = 143
+============================================
+Forces... (12 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 90--- Final residual = 9.39192e-09
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 7.52956e-16
+============================================
+Time = 59 h
+Tumor cells = 26
+Normal cells = 616
+Total agents = 642
+Total cells left = 144
+============================================
+Forces... (14 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 90--- Final residual = 1.71273e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 8.65449e-16
+============================================
+Time = 60 h
+Tumor cells = 26
+Normal cells = 616
+Total agents = 642
+Total cells left = 144
+============================================
+Forces... (12 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 96--- Final residual = 2.00414e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.12404e-15
+============================================
+Time = 61 h
+Tumor cells = 26
+Normal cells = 615
+Total agents = 641
+Total cells left = 145
+============================================
+Forces... (9 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 94--- Final residual = 1.02346e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.08441e-15
+============================================
+Time = 62 h
+Tumor cells = 26
+Normal cells = 615
+Total agents = 641
+Total cells left = 145
+============================================
+Forces... (6 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 92--- Final residual = 7.26279e-09
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 7.78118e-16
+============================================
+Time = 63 h
+Tumor cells = 26
+Normal cells = 615
+Total agents = 641
+Total cells left = 145
+============================================
+Forces... (9 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 91--- Final residual = 8.10833e-09
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 8.3731e-16
+============================================
+Time = 64 h
+Tumor cells = 26
+Normal cells = 615
+Total agents = 641
+Total cells left = 145
+============================================
+Forces... (10 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 92--- Final residual = 7.18662e-09
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.87124e-16
+============================================
+Time = 65 h
+Tumor cells = 27
+Normal cells = 614
+Total agents = 641
+Total cells left = 146
+============================================
+Forces... (10 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 86--- Final residual = 8.38064e-09
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.41262e-16
+============================================
+Time = 66 h
+Tumor cells = 27
+Normal cells = 612
+Total agents = 639
+Total cells left = 148
+============================================
+Forces... (10 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 93--- Final residual = 1.16141e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 8.13959e-16
+============================================
+Time = 67 h
+Tumor cells = 27
+Normal cells = 612
+Total agents = 639
+Total cells left = 148
+============================================
+Forces... (10 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 90--- Final residual = 5.75367e-09
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.47189e-16
+============================================
+Time = 68 h
+Tumor cells = 29
+Normal cells = 611
+Total agents = 640
+Total cells left = 149
+============================================
+Forces... (12 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 91--- Final residual = 1.18597e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.02789e-15
+============================================
+Time = 69 h
+Tumor cells = 31
+Normal cells = 611
+Total agents = 642
+Total cells left = 149
+============================================
+Forces... (11 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 93--- Final residual = 1.69365e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 9.69724e-16
+============================================
+Time = 70 h
+Tumor cells = 32
+Normal cells = 610
+Total agents = 642
+Total cells left = 150
+============================================
+Forces... (12 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 92--- Final residual = 1.59211e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 8.79285e-16
+============================================
+Time = 71 h
+Tumor cells = 35
+Normal cells = 610
+Total agents = 645
+Total cells left = 150
+============================================
+Forces... (11 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 90--- Final residual = 1.70229e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 7.42034e-16
+============================================
+Time = 72 h
+Tumor cells = 37
+Normal cells = 609
+Total agents = 646
+Total cells left = 151
+============================================
+Forces... (13 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 93--- Final residual = 2.37028e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.04318e-16
+============================================
+Time = 73 h
+Tumor cells = 38
+Normal cells = 608
+Total agents = 646
+Total cells left = 152
+============================================
+Forces... (13 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 92--- Final residual = 2.27587e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.55913e-16
+============================================
+Time = 74 h
+Tumor cells = 40
+Normal cells = 605
+Total agents = 645
+Total cells left = 155
+============================================
+Forces... (11 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 89--- Final residual = 2.3579e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 9.21824e-16
+============================================
+Time = 75 h
+Tumor cells = 42
+Normal cells = 605
+Total agents = 647
+Total cells left = 155
+============================================
+Forces... (14 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 90--- Final residual = 2.61671e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.6329e-16
+============================================
+Time = 76 h
+Tumor cells = 42
+Normal cells = 605
+Total agents = 647
+Total cells left = 155
+============================================
+Forces... (11 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 86--- Final residual = 2.59364e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.99352e-16
+============================================
+Time = 77 h
+Tumor cells = 43
+Normal cells = 604
+Total agents = 647
+Total cells left = 156
+============================================
+Forces... (13 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 87--- Final residual = 1.71107e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.36549e-15
+============================================
+Time = 78 h
+Tumor cells = 45
+Normal cells = 602
+Total agents = 647
+Total cells left = 158
+============================================
+Forces... (14 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 86--- Final residual = 2.45276e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.27049e-15
+============================================
+Time = 79 h
+Tumor cells = 45
+Normal cells = 602
+Total agents = 647
+Total cells left = 158
+============================================
+Forces... (13 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 88--- Final residual = 1.94585e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 9.27174e-16
+============================================
+Time = 80 h
+Tumor cells = 48
+Normal cells = 602
+Total agents = 650
+Total cells left = 158
+============================================
+Forces... (14 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 80--- Final residual = 2.02677e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.05365e-15
+============================================
+Time = 81 h
+Tumor cells = 48
+Normal cells = 601
+Total agents = 649
+Total cells left = 159
+============================================
+Forces... (12 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 87--- Final residual = 2.15277e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.66713e-15
+============================================
+Time = 82 h
+Tumor cells = 48
+Normal cells = 600
+Total agents = 648
+Total cells left = 160
+============================================
+Forces... (7 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 82--- Final residual = 1.37337e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.39501e-15
+============================================
+Time = 83 h
+Tumor cells = 49
+Normal cells = 598
+Total agents = 647
+Total cells left = 162
+============================================
+Forces... (9 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 77--- Final residual = 1.58566e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.71699e-15
+============================================
+Time = 84 h
+Tumor cells = 49
+Normal cells = 597
+Total agents = 646
+Total cells left = 163
+============================================
+Forces... (11 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 82--- Final residual = 1.28481e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.13211e-15
+============================================
+Time = 85 h
+Tumor cells = 50
+Normal cells = 597
+Total agents = 647
+Total cells left = 163
+============================================
+Forces... (13 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 83--- Final residual = 1.17821e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.51725e-15
+============================================
+Time = 86 h
+Tumor cells = 50
+Normal cells = 595
+Total agents = 645
+Total cells left = 165
+============================================
+Forces... (11 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 80--- Final residual = 1.23132e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.66781e-15
+============================================
+Time = 87 h
+Tumor cells = 51
+Normal cells = 592
+Total agents = 643
+Total cells left = 168
+============================================
+Forces... (12 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 78--- Final residual = 1.1727e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.10765e-15
+============================================
+Time = 88 h
+Tumor cells = 52
+Normal cells = 591
+Total agents = 643
+Total cells left = 169
+============================================
+Forces... (12 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 78--- Final residual = 1.43081e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.95639e-15
+============================================
+Time = 89 h
+Tumor cells = 52
+Normal cells = 591
+Total agents = 643
+Total cells left = 169
+============================================
+Forces... (10 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 80--- Final residual = 1.13525e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.09293e-15
+============================================
+Time = 90 h
+Tumor cells = 55
+Normal cells = 591
+Total agents = 646
+Total cells left = 169
+============================================
+Forces... (14 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 77--- Final residual = 1.34698e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.11708e-15
+============================================
+Time = 91 h
+Tumor cells = 58
+Normal cells = 590
+Total agents = 648
+Total cells left = 170
+============================================
+Forces... (12 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 81--- Final residual = 1.81507e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.01492e-15
+============================================
+Time = 92 h
+Tumor cells = 59
+Normal cells = 587
+Total agents = 646
+Total cells left = 173
+============================================
+Forces... (13 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 79--- Final residual = 2.35333e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.43752e-15
+============================================
+Time = 93 h
+Tumor cells = 62
+Normal cells = 584
+Total agents = 646
+Total cells left = 176
+============================================
+Forces... (15 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 77--- Final residual = 1.93971e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.3612e-15
+============================================
+Time = 94 h
+Tumor cells = 63
+Normal cells = 582
+Total agents = 645
+Total cells left = 178
+============================================
+Forces... (13 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 81--- Final residual = 2.23837e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.48985e-15
+============================================
+Time = 95 h
+Tumor cells = 65
+Normal cells = 581
+Total agents = 646
+Total cells left = 179
+============================================
+Forces... (13 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 79--- Final residual = 1.68849e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.03789e-15
+============================================
+Time = 96 h
+Tumor cells = 69
+Normal cells = 579
+Total agents = 648
+Total cells left = 181
+============================================
+Forces... (13 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 80--- Final residual = 2.13043e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.04902e-15
+============================================
+Time = 97 h
+Tumor cells = 71
+Normal cells = 579
+Total agents = 650
+Total cells left = 181
+============================================
+Forces... (13 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 80--- Final residual = 2.56901e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.11284e-15
+============================================
+Time = 98 h
+Tumor cells = 72
+Normal cells = 579
+Total agents = 651
+Total cells left = 181
+============================================
+Forces... (12 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 78--- Final residual = 2.56482e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.19157e-15
+============================================
+Time = 99 h
+Tumor cells = 74
+Normal cells = 579
+Total agents = 653
+Total cells left = 181
+============================================
+Forces... (14 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 74--- Final residual = 2.2733e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.34419e-15
+============================================
+Time = 100 h
+Tumor cells = 76
+Normal cells = 578
+Total agents = 654
+Total cells left = 182
+============================================
+Forces... (14 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 74--- Final residual = 2.22971e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.73073e-15
+============================================
+Time = 101 h
+Tumor cells = 80
+Normal cells = 578
+Total agents = 658
+Total cells left = 182
+============================================
+Forces... (14 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 78--- Final residual = 2.12957e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.60871e-15
+============================================
+Time = 102 h
+Tumor cells = 84
+Normal cells = 578
+Total agents = 662
+Total cells left = 182
+============================================
+Forces... (11 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 76--- Final residual = 3.04143e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.89904e-15
+============================================
+Time = 103 h
+Tumor cells = 85
+Normal cells = 578
+Total agents = 663
+Total cells left = 182
+============================================
+Forces... (13 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 78--- Final residual = 3.01064e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.20878e-15
+============================================
+Time = 104 h
+Tumor cells = 87
+Normal cells = 572
+Total agents = 659
+Total cells left = 188
+============================================
+Forces... (13 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 73--- Final residual = 2.09115e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.57256e-15
+============================================
+Time = 105 h
+Tumor cells = 90
+Normal cells = 572
+Total agents = 662
+Total cells left = 188
+============================================
+Forces... (16 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 77--- Final residual = 2.31923e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.28912e-15
+============================================
+Time = 106 h
+Tumor cells = 91
+Normal cells = 571
+Total agents = 662
+Total cells left = 189
+============================================
+Forces... (16 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 76--- Final residual = 2.59732e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.21293e-15
+============================================
+Time = 107 h
+Tumor cells = 92
+Normal cells = 569
+Total agents = 661
+Total cells left = 191
+============================================
+Forces... (13 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 73--- Final residual = 1.96771e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.23536e-15
+============================================
+Time = 108 h
+Tumor cells = 92
+Normal cells = 568
+Total agents = 660
+Total cells left = 192
+============================================
+Forces... (13 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 77--- Final residual = 1.96395e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.91327e-15
+============================================
+Time = 109 h
+Tumor cells = 95
+Normal cells = 567
+Total agents = 662
+Total cells left = 193
+============================================
+Forces... (15 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 72--- Final residual = 2.02685e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.6564e-15
+============================================
+Time = 110 h
+Tumor cells = 99
+Normal cells = 564
+Total agents = 663
+Total cells left = 196
+============================================
+Forces... (15 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 72--- Final residual = 2.37045e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.22791e-15
+============================================
+Time = 111 h
+Tumor cells = 103
+Normal cells = 563
+Total agents = 666
+Total cells left = 197
+============================================
+Forces... (15 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 72--- Final residual = 2.79151e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.89574e-15
+============================================
+Time = 112 h
+Tumor cells = 107
+Normal cells = 563
+Total agents = 670
+Total cells left = 197
+============================================
+Forces... (14 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 73--- Final residual = 2.6556e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.28885e-15
+============================================
+Time = 113 h
+Tumor cells = 111
+Normal cells = 562
+Total agents = 673
+Total cells left = 198
+============================================
+Forces... (12 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 78--- Final residual = 3.05369e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.76123e-15
+============================================
+Time = 114 h
+Tumor cells = 113
+Normal cells = 557
+Total agents = 670
+Total cells left = 203
+============================================
+Forces... (14 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 78--- Final residual = 2.51213e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.57414e-15
+============================================
+Time = 115 h
+Tumor cells = 116
+Normal cells = 556
+Total agents = 672
+Total cells left = 204
+============================================
+Forces... (16 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 72--- Final residual = 2.56403e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.19466e-15
+============================================
+Time = 116 h
+Tumor cells = 118
+Normal cells = 555
+Total agents = 673
+Total cells left = 205
+============================================
+Forces... (15 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 73--- Final residual = 2.94964e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 1.95963e-15
+============================================
+Time = 117 h
+Tumor cells = 118
+Normal cells = 554
+Total agents = 672
+Total cells left = 206
+============================================
+Forces... (13 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 72--- Final residual = 2.40879e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.11181e-15
+============================================
+Time = 118 h
+Tumor cells = 121
+Normal cells = 554
+Total agents = 675
+Total cells left = 206
+============================================
+Forces... (12 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 71--- Final residual = 1.98679e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.50098e-15
+============================================
+Time = 119 h
+Tumor cells = 129
+Normal cells = 552
+Total agents = 681
+Total cells left = 208
+============================================
+Forces... (18 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 72--- Final residual = 2.66057e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.18719e-15
+============================================
+Time = 120 h
+Tumor cells = 137
+Normal cells = 551
+Total agents = 688
+Total cells left = 209
+============================================
+Forces... (17 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 75--- Final residual = 3.59341e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.08619e-15
+============================================
+Time = 121 h
+Tumor cells = 141
+Normal cells = 550
+Total agents = 691
+Total cells left = 210
+============================================
+Forces... (15 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 72--- Final residual = 3.84532e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.33699e-15
+============================================
+Time = 122 h
+Tumor cells = 143
+Normal cells = 548
+Total agents = 691
+Total cells left = 212
+============================================
+Forces... (14 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 71--- Final residual = 2.98021e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.26765e-15
+============================================
+Time = 123 h
+Tumor cells = 146
+Normal cells = 547
+Total agents = 693
+Total cells left = 213
+============================================
+Forces... (16 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 70--- Final residual = 2.93442e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.75597e-15
+============================================
+Time = 124 h
+Tumor cells = 149
+Normal cells = 543
+Total agents = 692
+Total cells left = 217
+============================================
+Forces... (16 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 70--- Final residual = 2.48e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.70464e-15
+============================================
+Time = 125 h
+Tumor cells = 151
+Normal cells = 541
+Total agents = 692
+Total cells left = 219
+============================================
+Forces... (14 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 74--- Final residual = 2.72908e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.8574e-15
+============================================
+Time = 126 h
+Tumor cells = 157
+Normal cells = 538
+Total agents = 695
+Total cells left = 222
+============================================
+Forces... (14 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 68--- Final residual = 2.6517e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.78492e-15
+============================================
+Time = 127 h
+Tumor cells = 160
+Normal cells = 535
+Total agents = 695
+Total cells left = 225
+============================================
+Forces... (15 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 74--- Final residual = 3.22038e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 2.43689e-15
+============================================
+Time = 128 h
+Tumor cells = 162
+Normal cells = 531
+Total agents = 693
+Total cells left = 229
+============================================
+Forces... (14 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 71--- Final residual = 2.57299e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 3.29259e-15
+============================================
+Time = 129 h
+Tumor cells = 166
+Normal cells = 528
+Total agents = 694
+Total cells left = 232
+============================================
+Forces... (18 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 65--- Final residual = 2.76584e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 3.8796e-15
+============================================
+Time = 130 h
+Tumor cells = 171
+Normal cells = 525
+Total agents = 696
+Total cells left = 235
+============================================
+Forces... (15 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 64--- Final residual = 2.91997e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.1803e-15
+============================================
+Time = 131 h
+Tumor cells = 171
+Normal cells = 524
+Total agents = 695
+Total cells left = 236
+============================================
+Forces... (13 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 69--- Final residual = 2.91094e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 3.97256e-15
+============================================
+Time = 132 h
+Tumor cells = 174
+Normal cells = 523
+Total agents = 697
+Total cells left = 237
+============================================
+Forces... (15 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 63--- Final residual = 2.08977e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 3.85883e-15
+============================================
+Time = 133 h
+Tumor cells = 180
+Normal cells = 516
+Total agents = 696
+Total cells left = 244
+============================================
+Forces... (15 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 68--- Final residual = 2.40463e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.6103e-15
+============================================
+Time = 134 h
+Tumor cells = 185
+Normal cells = 512
+Total agents = 697
+Total cells left = 248
+============================================
+Forces... (14 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 67--- Final residual = 3.13569e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 3.64624e-15
+============================================
+Time = 135 h
+Tumor cells = 190
+Normal cells = 509
+Total agents = 699
+Total cells left = 251
+============================================
+Forces... (15 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 69--- Final residual = 3.2623e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.4337e-15
+============================================
+Time = 136 h
+Tumor cells = 194
+Normal cells = 505
+Total agents = 699
+Total cells left = 255
+============================================
+Forces... (14 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 64--- Final residual = 3.0133e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 3.89171e-15
+============================================
+Time = 137 h
+Tumor cells = 197
+Normal cells = 502
+Total agents = 699
+Total cells left = 258
+============================================
+Forces... (14 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 67--- Final residual = 2.92626e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.07963e-15
+============================================
+Time = 138 h
+Tumor cells = 201
+Normal cells = 500
+Total agents = 701
+Total cells left = 260
+============================================
+Forces... (15 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 68--- Final residual = 2.85526e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 3.46672e-15
+============================================
+Time = 139 h
+Tumor cells = 204
+Normal cells = 498
+Total agents = 702
+Total cells left = 262
+============================================
+Forces... (12 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 63--- Final residual = 3.14755e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.3518e-15
+============================================
+Time = 140 h
+Tumor cells = 208
+Normal cells = 494
+Total agents = 702
+Total cells left = 266
+============================================
+Forces... (15 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 66--- Final residual = 2.69287e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.2329e-15
+============================================
+Time = 141 h
+Tumor cells = 216
+Normal cells = 493
+Total agents = 709
+Total cells left = 267
+============================================
+Forces... (15 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 63--- Final residual = 3.26873e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.31167e-15
+============================================
+Time = 142 h
+Tumor cells = 219
+Normal cells = 490
+Total agents = 709
+Total cells left = 270
+============================================
+Forces... (16 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 66--- Final residual = 3.8373e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 3.92414e-15
+============================================
+Time = 143 h
+Tumor cells = 223
+Normal cells = 484
+Total agents = 707
+Total cells left = 276
+============================================
+Forces... (16 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 61--- Final residual = 3.50945e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.03067e-15
+============================================
+Time = 144 h
+Tumor cells = 229
+Normal cells = 482
+Total agents = 711
+Total cells left = 278
+============================================
+Forces... (16 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 63--- Final residual = 3.36832e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.31328e-15
+============================================
+Time = 145 h
+Tumor cells = 234
+Normal cells = 481
+Total agents = 715
+Total cells left = 279
+============================================
+Forces... (15 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 64--- Final residual = 2.9041e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.30162e-15
+============================================
+Time = 146 h
+Tumor cells = 241
+Normal cells = 479
+Total agents = 720
+Total cells left = 281
+============================================
+Forces... (16 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 63--- Final residual = 3.35612e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.14749e-15
+============================================
+Time = 147 h
+Tumor cells = 244
+Normal cells = 475
+Total agents = 719
+Total cells left = 285
+============================================
+Forces... (17 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 69--- Final residual = 2.86249e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.60407e-15
+============================================
+Time = 148 h
+Tumor cells = 248
+Normal cells = 471
+Total agents = 719
+Total cells left = 289
+============================================
+Forces... (14 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 63--- Final residual = 3.09026e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.30509e-15
+============================================
+Time = 149 h
+Tumor cells = 252
+Normal cells = 468
+Total agents = 720
+Total cells left = 292
+============================================
+Forces... (16 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 64--- Final residual = 3.16224e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.69461e-15
+============================================
+Time = 150 h
+Tumor cells = 255
+Normal cells = 463
+Total agents = 718
+Total cells left = 297
+============================================
+Forces... (14 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 64--- Final residual = 2.93071e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.17177e-15
+============================================
+Time = 151 h
+Tumor cells = 259
+Normal cells = 458
+Total agents = 717
+Total cells left = 302
+============================================
+Forces... (16 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 61--- Final residual = 2.30983e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.36647e-15
+============================================
+Time = 152 h
+Tumor cells = 266
+Normal cells = 455
+Total agents = 721
+Total cells left = 305
+============================================
+Forces... (15 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 61--- Final residual = 3.11506e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.17438e-15
+============================================
+Time = 153 h
+Tumor cells = 270
+Normal cells = 447
+Total agents = 717
+Total cells left = 313
+============================================
+Forces... (13 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 64--- Final residual = 3.37189e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.39905e-15
+============================================
+Time = 154 h
+Tumor cells = 275
+Normal cells = 444
+Total agents = 719
+Total cells left = 316
+============================================
+Forces... (16 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 62--- Final residual = 3.65306e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.91734e-15
+============================================
+Time = 155 h
+Tumor cells = 280
+Normal cells = 440
+Total agents = 720
+Total cells left = 320
+============================================
+Forces... (17 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 61--- Final residual = 3.17271e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.28762e-15
+============================================
+Time = 156 h
+Tumor cells = 287
+Normal cells = 435
+Total agents = 722
+Total cells left = 325
+============================================
+Forces... (16 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 60--- Final residual = 3.19625e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.79871e-15
+============================================
+Time = 157 h
+Tumor cells = 294
+Normal cells = 433
+Total agents = 727
+Total cells left = 327
+============================================
+Forces... (16 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 63--- Final residual = 3.25368e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.62808e-15
+============================================
+Time = 158 h
+Tumor cells = 301
+Normal cells = 430
+Total agents = 731
+Total cells left = 330
+============================================
+Forces... (16 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 64--- Final residual = 3.60881e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.74107e-15
+============================================
+Time = 159 h
+Tumor cells = 304
+Normal cells = 426
+Total agents = 730
+Total cells left = 334
+============================================
+Forces... (16 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 63--- Final residual = 3.53745e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.49314e-15
+============================================
+Time = 160 h
+Tumor cells = 310
+Normal cells = 423
+Total agents = 733
+Total cells left = 337
+============================================
+Forces... (16 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 61--- Final residual = 3.11073e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.78813e-15
+============================================
+Time = 161 h
+Tumor cells = 316
+Normal cells = 415
+Total agents = 731
+Total cells left = 345
+============================================
+Forces... (16 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 62--- Final residual = 3.3575e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.67426e-15
+============================================
+Time = 162 h
+Tumor cells = 323
+Normal cells = 412
+Total agents = 735
+Total cells left = 348
+============================================
+Forces... (16 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 64--- Final residual = 3.25224e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.63724e-15
+============================================
+Time = 163 h
+Tumor cells = 330
+Normal cells = 406
+Total agents = 736
+Total cells left = 354
+============================================
+Forces... (15 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 64--- Final residual = 4.1512e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.17353e-15
+============================================
+Time = 164 h
+Tumor cells = 339
+Normal cells = 404
+Total agents = 743
+Total cells left = 356
+============================================
+Forces... (16 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 63--- Final residual = 3.98128e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.00649e-15
+============================================
+Time = 165 h
+Tumor cells = 346
+Normal cells = 399
+Total agents = 745
+Total cells left = 361
+============================================
+Forces... (16 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 64--- Final residual = 4.68097e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.81952e-15
+============================================
+Time = 166 h
+Tumor cells = 353
+Normal cells = 389
+Total agents = 742
+Total cells left = 371
+============================================
+Forces... (18 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 65--- Final residual = 4.47484e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.10728e-15
+============================================
+Time = 167 h
+Tumor cells = 357
+Normal cells = 382
+Total agents = 739
+Total cells left = 378
+============================================
+Forces... (17 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 62--- Final residual = 4.2784e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.89488e-15
+============================================
+Time = 168 h
+Tumor cells = 361
+Normal cells = 377
+Total agents = 738
+Total cells left = 383
+============================================
+Forces... (15 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 59--- Final residual = 4.38587e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.8852e-15
+============================================
+Time = 169 h
+Tumor cells = 368
+Normal cells = 371
+Total agents = 739
+Total cells left = 389
+============================================
+Forces... (13 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 59--- Final residual = 4.1866e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.47975e-15
+============================================
+Time = 170 h
+Tumor cells = 375
+Normal cells = 364
+Total agents = 739
+Total cells left = 396
+============================================
+Forces... (16 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 59--- Final residual = 3.82222e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.91426e-15
+============================================
+Time = 171 h
+Tumor cells = 379
+Normal cells = 357
+Total agents = 736
+Total cells left = 403
+============================================
+Forces... (12 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 59--- Final residual = 4.62115e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.10286e-15
+============================================
+Time = 172 h
+Tumor cells = 383
+Normal cells = 355
+Total agents = 738
+Total cells left = 405
+============================================
+Forces... (16 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 59--- Final residual = 4.03681e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.95724e-15
+============================================
+Time = 173 h
+Tumor cells = 385
+Normal cells = 347
+Total agents = 732
+Total cells left = 413
+============================================
+Forces... (18 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 55--- Final residual = 3.97754e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.15981e-15
+============================================
+Time = 174 h
+Tumor cells = 392
+Normal cells = 341
+Total agents = 733
+Total cells left = 419
+============================================
+Forces... (30 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 55--- Final residual = 3.81452e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.47241e-15
+============================================
+Time = 175 h
+Tumor cells = 394
+Normal cells = 336
+Total agents = 730
+Total cells left = 424
+============================================
+Forces... (33 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 52--- Final residual = 4.23052e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.0528e-15
+============================================
+Time = 176 h
+Tumor cells = 402
+Normal cells = 332
+Total agents = 734
+Total cells left = 428
+============================================
+Forces... (35 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 58--- Final residual = 3.63716e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.28803e-15
+============================================
+Time = 177 h
+Tumor cells = 407
+Normal cells = 328
+Total agents = 735
+Total cells left = 432
+============================================
+Forces... (36 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 54--- Final residual = 3.94872e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.99577e-15
+============================================
+Time = 178 h
+Tumor cells = 411
+Normal cells = 319
+Total agents = 730
+Total cells left = 441
+============================================
+Forces... (35 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 52--- Final residual = 4.12021e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.51357e-15
+============================================
+Time = 179 h
+Tumor cells = 414
+Normal cells = 311
+Total agents = 725
+Total cells left = 449
+============================================
+Forces... (40 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 56--- Final residual = 3.15768e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.76776e-15
+============================================
+Time = 180 h
+Tumor cells = 425
+Normal cells = 305
+Total agents = 730
+Total cells left = 455
+============================================
+Forces... (37 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 49--- Final residual = 3.48461e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.87318e-15
+============================================
+Time = 181 h
+Tumor cells = 429
+Normal cells = 300
+Total agents = 729
+Total cells left = 460
+============================================
+Forces... (40 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 62--- Final residual = 3.71862e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.61264e-15
+============================================
+Time = 182 h
+Tumor cells = 440
+Normal cells = 298
+Total agents = 738
+Total cells left = 462
+============================================
+Forces... (46 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 59--- Final residual = 3.35354e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.71153e-15
+============================================
+Time = 183 h
+Tumor cells = 450
+Normal cells = 290
+Total agents = 740
+Total cells left = 470
+============================================
+Forces... (45 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 61--- Final residual = 4.52418e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.75991e-15
+============================================
+Time = 184 h
+Tumor cells = 456
+Normal cells = 287
+Total agents = 743
+Total cells left = 473
+============================================
+Forces... (42 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 59--- Final residual = 3.69944e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.24721e-15
+============================================
+Time = 185 h
+Tumor cells = 460
+Normal cells = 279
+Total agents = 739
+Total cells left = 481
+============================================
+Forces... (45 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 60--- Final residual = 3.4652e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.8792e-15
+============================================
+Time = 186 h
+Tumor cells = 469
+Normal cells = 275
+Total agents = 744
+Total cells left = 485
+============================================
+Forces... (46 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 58--- Final residual = 3.59814e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.7208e-15
+============================================
+Time = 187 h
+Tumor cells = 479
+Normal cells = 273
+Total agents = 752
+Total cells left = 487
+============================================
+Forces... (48 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 60--- Final residual = 4.10645e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.25243e-15
+============================================
+Time = 188 h
+Tumor cells = 489
+Normal cells = 268
+Total agents = 757
+Total cells left = 492
+============================================
+Forces... (50 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 62--- Final residual = 4.36058e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.53131e-15
+============================================
+Time = 189 h
+Tumor cells = 497
+Normal cells = 260
+Total agents = 757
+Total cells left = 500
+============================================
+Forces... (54 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 61--- Final residual = 4.99758e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.43133e-15
+============================================
+Time = 190 h
+Tumor cells = 504
+Normal cells = 257
+Total agents = 761
+Total cells left = 503
+============================================
+Forces... (58 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 62--- Final residual = 4.38875e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.41705e-15
+============================================
+Time = 191 h
+Tumor cells = 510
+Normal cells = 253
+Total agents = 763
+Total cells left = 507
+============================================
+Forces... (58 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 61--- Final residual = 4.17911e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.64634e-15
+============================================
+Time = 192 h
+Tumor cells = 521
+Normal cells = 248
+Total agents = 769
+Total cells left = 512
+============================================
+Forces... (56 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 61--- Final residual = 4.06539e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.69154e-15
+============================================
+Time = 193 h
+Tumor cells = 526
+Normal cells = 239
+Total agents = 765
+Total cells left = 521
+============================================
+Forces... (53 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 58--- Final residual = 5.4919e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.42982e-15
+============================================
+Time = 194 h
+Tumor cells = 533
+Normal cells = 231
+Total agents = 764
+Total cells left = 529
+============================================
+Forces... (60 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 59--- Final residual = 4.09025e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.49781e-15
+============================================
+Time = 195 h
+Tumor cells = 540
+Normal cells = 222
+Total agents = 762
+Total cells left = 538
+============================================
+Forces... (57 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 58--- Final residual = 4.84515e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.20056e-15
+============================================
+Time = 196 h
+Tumor cells = 546
+Normal cells = 218
+Total agents = 764
+Total cells left = 542
+============================================
+Forces... (58 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 54--- Final residual = 4.77152e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.63298e-15
+============================================
+Time = 197 h
+Tumor cells = 551
+Normal cells = 210
+Total agents = 761
+Total cells left = 550
+============================================
+Forces... (58 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 54--- Final residual = 4.90881e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.15878e-15
+============================================
+Time = 198 h
+Tumor cells = 554
+Normal cells = 205
+Total agents = 759
+Total cells left = 555
+============================================
+Forces... (53 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 59--- Final residual = 4.92105e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.88917e-15
+============================================
+Time = 199 h
+Tumor cells = 567
+Normal cells = 201
+Total agents = 768
+Total cells left = 560
+============================================
+Forces... (45 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 60--- Final residual = 5.22729e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.96686e-15
+============================================
+Time = 200 h
+Tumor cells = 574
+Normal cells = 195
+Total agents = 769
+Total cells left = 566
+============================================
+Forces... (40 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 57--- Final residual = 5.21618e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.2838e-15
+============================================
+Time = 201 h
+Tumor cells = 586
+Normal cells = 188
+Total agents = 774
+Total cells left = 573
+============================================
+Forces... (40 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 60--- Final residual = 5.57777e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.18611e-15
+============================================
+Time = 202 h
+Tumor cells = 591
+Normal cells = 179
+Total agents = 770
+Total cells left = 582
+============================================
+Forces... (42 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 57--- Final residual = 4.79179e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.73613e-15
+============================================
+Time = 203 h
+Tumor cells = 601
+Normal cells = 174
+Total agents = 775
+Total cells left = 587
+============================================
+Forces... (44 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 57--- Final residual = 5.25815e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 4.99578e-15
+============================================
+Time = 204 h
+Tumor cells = 610
+Normal cells = 168
+Total agents = 778
+Total cells left = 594
+============================================
+Forces... (44 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 52--- Final residual = 6.0683e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.78126e-15
+============================================
+Time = 205 h
+Tumor cells = 615
+Normal cells = 163
+Total agents = 778
+Total cells left = 602
+============================================
+Forces... (45 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 60--- Final residual = 4.23159e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.83916e-15
+============================================
+Time = 206 h
+Tumor cells = 632
+Normal cells = 155
+Total agents = 787
+Total cells left = 610
+============================================
+Forces... (46 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 58--- Final residual = 4.91657e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.95092e-15
+============================================
+Time = 207 h
+Tumor cells = 644
+Normal cells = 148
+Total agents = 792
+Total cells left = 617
+============================================
+Forces... (49 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 61--- Final residual = 4.66112e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.11117e-15
+============================================
+Time = 208 h
+Tumor cells = 652
+Normal cells = 138
+Total agents = 790
+Total cells left = 627
+============================================
+Forces... (52 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 60--- Final residual = 6.67342e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.57782e-15
+============================================
+Time = 209 h
+Tumor cells = 666
+Normal cells = 129
+Total agents = 795
+Total cells left = 638
+============================================
+Forces... (54 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 59--- Final residual = 5.2456e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.7172e-15
+============================================
+Time = 210 h
+Tumor cells = 673
+Normal cells = 126
+Total agents = 799
+Total cells left = 644
+============================================
+Forces... (54 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 56--- Final residual = 6.31522e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.81335e-15
+============================================
+Time = 211 h
+Tumor cells = 690
+Normal cells = 125
+Total agents = 815
+Total cells left = 647
+============================================
+Forces... (56 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 54--- Final residual = 7.74647e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.1891e-15
+============================================
+Time = 212 h
+Tumor cells = 703
+Normal cells = 119
+Total agents = 822
+Total cells left = 657
+============================================
+Forces... (58 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 59--- Final residual = 5.48312e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.50097e-15
+============================================
+Time = 213 h
+Tumor cells = 710
+Normal cells = 113
+Total agents = 823
+Total cells left = 663
+============================================
+Forces... (61 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 57--- Final residual = 6.46148e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.47918e-15
+============================================
+Time = 214 h
+Tumor cells = 717
+Normal cells = 107
+Total agents = 824
+Total cells left = 673
+============================================
+Forces... (51 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 51--- Final residual = 8.07667e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.2793e-15
+============================================
+Time = 215 h
+Tumor cells = 728
+Normal cells = 100
+Total agents = 828
+Total cells left = 684
+============================================
+Forces... (60 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 52--- Final residual = 7.19151e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.69379e-15
+============================================
+Time = 216 h
+Tumor cells = 733
+Normal cells = 93
+Total agents = 826
+Total cells left = 696
+============================================
+Forces... (65 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 52--- Final residual = 7.27795e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.97569e-15
+============================================
+Time = 217 h
+Tumor cells = 736
+Normal cells = 89
+Total agents = 825
+Total cells left = 704
+============================================
+Forces... (67 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 55--- Final residual = 7.90606e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.15376e-15
+============================================
+Time = 218 h
+Tumor cells = 740
+Normal cells = 87
+Total agents = 827
+Total cells left = 713
+============================================
+Forces... (66 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 54--- Final residual = 5.86523e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.29027e-15
+============================================
+Time = 219 h
+Tumor cells = 745
+Normal cells = 80
+Total agents = 825
+Total cells left = 723
+============================================
+Forces... (57 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 56--- Final residual = 5.27104e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.54132e-15
+============================================
+Time = 220 h
+Tumor cells = 754
+Normal cells = 74
+Total agents = 828
+Total cells left = 730
+============================================
+Forces... (66 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 53--- Final residual = 6.46107e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.38352e-15
+============================================
+Time = 221 h
+Tumor cells = 756
+Normal cells = 68
+Total agents = 824
+Total cells left = 740
+============================================
+Forces... (65 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 54--- Final residual = 7.44294e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 7.32779e-15
+============================================
+Time = 222 h
+Tumor cells = 758
+Normal cells = 67
+Total agents = 825
+Total cells left = 747
+============================================
+Forces... (56 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 57--- Final residual = 7.43937e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 7.35919e-15
+============================================
+Time = 223 h
+Tumor cells = 759
+Normal cells = 61
+Total agents = 820
+Total cells left = 758
+============================================
+Forces... (59 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 55--- Final residual = 8.2507e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.66596e-15
+============================================
+Time = 224 h
+Tumor cells = 759
+Normal cells = 55
+Total agents = 814
+Total cells left = 774
+============================================
+Forces... (63 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 58--- Final residual = 7.2019e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 7.05059e-15
+============================================
+Time = 225 h
+Tumor cells = 761
+Normal cells = 52
+Total agents = 813
+Total cells left = 783
+============================================
+Forces... (62 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 59--- Final residual = 5.45702e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 7.31692e-15
+============================================
+Time = 226 h
+Tumor cells = 771
+Normal cells = 47
+Total agents = 818
+Total cells left = 790
+============================================
+Forces... (61 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 57--- Final residual = 6.72252e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.88312e-15
+============================================
+Time = 227 h
+Tumor cells = 775
+Normal cells = 47
+Total agents = 822
+Total cells left = 795
+============================================
+Forces... (61 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 57--- Final residual = 6.48954e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.8738e-15
+============================================
+Time = 228 h
+Tumor cells = 780
+Normal cells = 45
+Total agents = 825
+Total cells left = 803
+============================================
+Forces... (61 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 58--- Final residual = 6.30414e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.31774e-15
+============================================
+Time = 229 h
+Tumor cells = 786
+Normal cells = 44
+Total agents = 830
+Total cells left = 811
+============================================
+Forces... (61 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 52--- Final residual = 6.9626e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.42503e-15
+============================================
+Time = 230 h
+Tumor cells = 796
+Normal cells = 43
+Total agents = 839
+Total cells left = 820
+============================================
+Forces... (63 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 43--- Final residual = 6.26682e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.54142e-15
+============================================
+Time = 231 h
+Tumor cells = 804
+Normal cells = 41
+Total agents = 845
+Total cells left = 831
+============================================
+Forces... (62 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 43--- Final residual = 7.1324e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.06572e-15
+============================================
+Time = 232 h
+Tumor cells = 807
+Normal cells = 39
+Total agents = 846
+Total cells left = 842
+============================================
+Forces... (58 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 56--- Final residual = 6.26559e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.96956e-15
+============================================
+Time = 233 h
+Tumor cells = 814
+Normal cells = 35
+Total agents = 849
+Total cells left = 853
+============================================
+Forces... (50 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 55--- Final residual = 7.36107e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.07319e-15
+============================================
+Time = 234 h
+Tumor cells = 817
+Normal cells = 31
+Total agents = 848
+Total cells left = 865
+============================================
+Forces... (55 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 56--- Final residual = 7.27532e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.80949e-15
+============================================
+Time = 235 h
+Tumor cells = 821
+Normal cells = 30
+Total agents = 851
+Total cells left = 877
+============================================
+Forces... (63 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 55--- Final residual = 7.21289e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.42345e-15
+============================================
+Time = 236 h
+Tumor cells = 823
+Normal cells = 30
+Total agents = 853
+Total cells left = 887
+============================================
+Forces... (65 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 58--- Final residual = 4.84476e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.158e-15
+============================================
+Time = 237 h
+Tumor cells = 844
+Normal cells = 28
+Total agents = 872
+Total cells left = 892
+============================================
+Forces... (65 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 52--- Final residual = 8.5901e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.62105e-15
+============================================
+Time = 238 h
+Tumor cells = 847
+Normal cells = 26
+Total agents = 873
+Total cells left = 906
+============================================
+Forces... (58 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 55--- Final residual = 6.60383e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.57149e-15
+============================================
+Time = 239 h
+Tumor cells = 847
+Normal cells = 25
+Total agents = 872
+Total cells left = 915
+============================================
+Forces... (52 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 53--- Final residual = 8.19191e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.19762e-15
+============================================
+Time = 240 h
+Tumor cells = 847
+Normal cells = 24
+Total agents = 871
+Total cells left = 928
+============================================
+Forces... (56 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 50--- Final residual = 7.80296e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.02041e-15
+============================================
+Time = 241 h
+Tumor cells = 852
+Normal cells = 24
+Total agents = 876
+Total cells left = 936
+============================================
+Forces... (57 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 53--- Final residual = 6.77212e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.31976e-15
+============================================
+Time = 242 h
+Tumor cells = 858
+Normal cells = 23
+Total agents = 881
+Total cells left = 946
+============================================
+Forces... (66 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 55--- Final residual = 8.27406e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.03767e-15
+============================================
+Time = 243 h
+Tumor cells = 865
+Normal cells = 22
+Total agents = 887
+Total cells left = 955
+============================================
+Forces... (64 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 53--- Final residual = 6.7986e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.80421e-15
+============================================
+Time = 244 h
+Tumor cells = 859
+Normal cells = 22
+Total agents = 881
+Total cells left = 967
+============================================
+Forces... (66 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 51--- Final residual = 8.5755e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.05019e-15
+============================================
+Time = 245 h
+Tumor cells = 861
+Normal cells = 22
+Total agents = 883
+Total cells left = 979
+============================================
+Forces... (68 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 53--- Final residual = 7.7037e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.82598e-15
+============================================
+Time = 246 h
+Tumor cells = 860
+Normal cells = 22
+Total agents = 882
+Total cells left = 989
+============================================
+Forces... (67 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 54--- Final residual = 5.95443e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.3861e-15
+============================================
+Time = 247 h
+Tumor cells = 864
+Normal cells = 21
+Total agents = 885
+Total cells left = 999
+============================================
+Forces... (67 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 49--- Final residual = 9.13198e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.6825e-15
+============================================
+Time = 248 h
+Tumor cells = 872
+Normal cells = 21
+Total agents = 893
+Total cells left = 1009
+============================================
+Forces... (69 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 44--- Final residual = 6.50537e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.22487e-15
+============================================
+Time = 249 h
+Tumor cells = 880
+Normal cells = 19
+Total agents = 899
+Total cells left = 1021
+============================================
+Forces... (66 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 50--- Final residual = 7.80397e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.60582e-15
+============================================
+Time = 250 h
+Tumor cells = 886
+Normal cells = 18
+Total agents = 904
+Total cells left = 1030
+============================================
+Forces... (64 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 53--- Final residual = 7.52133e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.47973e-15
+============================================
+Time = 251 h
+Tumor cells = 887
+Normal cells = 17
+Total agents = 904
+Total cells left = 1042
+============================================
+Forces... (64 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 55--- Final residual = 8.4784e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.9325e-15
+============================================
+Time = 252 h
+Tumor cells = 890
+Normal cells = 17
+Total agents = 907
+Total cells left = 1053
+============================================
+Forces... (54 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 54--- Final residual = 7.80031e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.12394e-15
+============================================
+Time = 253 h
+Tumor cells = 885
+Normal cells = 17
+Total agents = 902
+Total cells left = 1064
+============================================
+Forces... (62 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 52--- Final residual = 7.56615e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.1216e-15
+============================================
+Time = 254 h
+Tumor cells = 889
+Normal cells = 16
+Total agents = 905
+Total cells left = 1078
+============================================
+Forces... (57 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 54--- Final residual = 6.32286e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.59127e-15
+============================================
+Time = 255 h
+Tumor cells = 896
+Normal cells = 16
+Total agents = 912
+Total cells left = 1087
+============================================
+Forces... (63 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 47--- Final residual = 8.30424e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.14157e-15
+============================================
+Time = 256 h
+Tumor cells = 888
+Normal cells = 15
+Total agents = 903
+Total cells left = 1104
+============================================
+Forces... (63 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 49--- Final residual = 8.03807e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.5703e-15
+============================================
+Time = 257 h
+Tumor cells = 888
+Normal cells = 15
+Total agents = 903
+Total cells left = 1117
+============================================
+Forces... (63 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 52--- Final residual = 7.16139e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.78224e-15
+============================================
+Time = 258 h
+Tumor cells = 892
+Normal cells = 15
+Total agents = 907
+Total cells left = 1126
+============================================
+Forces... (65 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 50--- Final residual = 6.32064e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 7.4407e-15
+============================================
+Time = 259 h
+Tumor cells = 898
+Normal cells = 15
+Total agents = 913
+Total cells left = 1132
+============================================
+Forces... (65 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 52--- Final residual = 7.39181e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 7.65063e-15
+============================================
+Time = 260 h
+Tumor cells = 900
+Normal cells = 13
+Total agents = 913
+Total cells left = 1146
+============================================
+Forces... (64 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 48--- Final residual = 7.20452e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 7.96024e-15
+============================================
+Time = 261 h
+Tumor cells = 895
+Normal cells = 13
+Total agents = 908
+Total cells left = 1160
+============================================
+Forces... (63 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 43--- Final residual = 8.17215e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.20123e-15
+============================================
+Time = 262 h
+Tumor cells = 907
+Normal cells = 12
+Total agents = 919
+Total cells left = 1168
+============================================
+Forces... (60 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 48--- Final residual = 8.52347e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.82346e-15
+============================================
+Time = 263 h
+Tumor cells = 909
+Normal cells = 12
+Total agents = 921
+Total cells left = 1180
+============================================
+Forces... (58 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 51--- Final residual = 8.88089e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.9791e-15
+============================================
+Time = 264 h
+Tumor cells = 908
+Normal cells = 12
+Total agents = 920
+Total cells left = 1190
+============================================
+Forces... (60 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 39--- Final residual = 8.48891e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.96703e-15
+============================================
+Time = 265 h
+Tumor cells = 899
+Normal cells = 11
+Total agents = 910
+Total cells left = 1205
+============================================
+Forces... (60 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 54--- Final residual = 6.00353e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 7.23397e-15
+============================================
+Time = 266 h
+Tumor cells = 906
+Normal cells = 11
+Total agents = 917
+Total cells left = 1213
+============================================
+Forces... (60 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 48--- Final residual = 6.49486e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.65183e-15
+============================================
+Time = 267 h
+Tumor cells = 905
+Normal cells = 11
+Total agents = 916
+Total cells left = 1224
+============================================
+Forces... (61 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 57--- Final residual = 5.8984e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.69715e-15
+============================================
+Time = 268 h
+Tumor cells = 909
+Normal cells = 11
+Total agents = 920
+Total cells left = 1231
+============================================
+Forces... (66 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 54--- Final residual = 6.27879e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.89184e-15
+============================================
+Time = 269 h
+Tumor cells = 919
+Normal cells = 11
+Total agents = 930
+Total cells left = 1238
+============================================
+Forces... (65 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 53--- Final residual = 6.56317e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.87361e-15
+============================================
+Time = 270 h
+Tumor cells = 926
+Normal cells = 10
+Total agents = 936
+Total cells left = 1247
+============================================
+Forces... (62 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 51--- Final residual = 8.69894e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.70463e-15
+============================================
+Time = 271 h
+Tumor cells = 928
+Normal cells = 10
+Total agents = 938
+Total cells left = 1259
+============================================
+Forces... (61 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 47--- Final residual = 8.42716e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.52918e-15
+============================================
+Time = 272 h
+Tumor cells = 926
+Normal cells = 10
+Total agents = 936
+Total cells left = 1271
+============================================
+Forces... (60 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 54--- Final residual = 6.63332e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.06928e-15
+============================================
+Time = 273 h
+Tumor cells = 937
+Normal cells = 10
+Total agents = 947
+Total cells left = 1278
+============================================
+Forces... (60 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 51--- Final residual = 7.80486e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.43789e-15
+============================================
+Time = 274 h
+Tumor cells = 943
+Normal cells = 9
+Total agents = 952
+Total cells left = 1287
+============================================
+Forces... (60 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 51--- Final residual = 1.08298e-07
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.99559e-15
+============================================
+Time = 275 h
+Tumor cells = 934
+Normal cells = 9
+Total agents = 943
+Total cells left = 1308
+============================================
+Forces... (57 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 51--- Final residual = 7.80426e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.77566e-15
+============================================
+Time = 276 h
+Tumor cells = 940
+Normal cells = 9
+Total agents = 949
+Total cells left = 1317
+============================================
+Forces... (61 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 49--- Final residual = 9.1771e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.32982e-15
+============================================
+Time = 277 h
+Tumor cells = 942
+Normal cells = 8
+Total agents = 950
+Total cells left = 1328
+============================================
+Forces... (61 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 49--- Final residual = 9.23437e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.27312e-15
+============================================
+Time = 278 h
+Tumor cells = 937
+Normal cells = 8
+Total agents = 945
+Total cells left = 1342
+============================================
+Forces... (63 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 45--- Final residual = 8.06441e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.10983e-15
+============================================
+Time = 279 h
+Tumor cells = 941
+Normal cells = 7
+Total agents = 948
+Total cells left = 1353
+============================================
+Forces... (64 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 48--- Final residual = 7.83766e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.19014e-15
+============================================
+Time = 280 h
+Tumor cells = 952
+Normal cells = 7
+Total agents = 959
+Total cells left = 1361
+============================================
+Forces... (63 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 52--- Final residual = 7.15352e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.75903e-15
+============================================
+Time = 281 h
+Tumor cells = 959
+Normal cells = 7
+Total agents = 966
+Total cells left = 1371
+============================================
+Forces... (62 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 46--- Final residual = 7.93759e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 5.46572e-15
+============================================
+Time = 282 h
+Tumor cells = 957
+Normal cells = 7
+Total agents = 964
+Total cells left = 1383
+============================================
+Forces... (58 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 52--- Final residual = 6.74527e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.95173e-15
+============================================
+Time = 283 h
+Tumor cells = 957
+Normal cells = 6
+Total agents = 963
+Total cells left = 1396
+============================================
+Forces... (54 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 50--- Final residual = 7.35437e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 7.17086e-15
+============================================
+Time = 284 h
+Tumor cells = 960
+Normal cells = 6
+Total agents = 966
+Total cells left = 1404
+============================================
+Forces... (54 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 43--- Final residual = 1.00826e-07
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 6.95505e-15
+============================================
+Time = 285 h
+Tumor cells = 957
+Normal cells = 5
+Total agents = 962
+Total cells left = 1421
+============================================
+Forces... (54 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 47--- Final residual = 8.18304e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 7.55277e-15
+============================================
+Time = 286 h
+Tumor cells = 961
+Normal cells = 5
+Total agents = 966
+Total cells left = 1430
+============================================
+Forces... (52 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 37--- Final residual = 6.6882e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 7.63397e-15
+============================================
+Time = 287 h
+Tumor cells = 958
+Normal cells = 5
+Total agents = 963
+Total cells left = 1443
+============================================
+Forces... (53 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 51--- Final residual = 7.13596e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 7.95745e-15
+============================================
+Time = 288 h
+Tumor cells = 965
+Normal cells = 5
+Total agents = 970
+Total cells left = 1450
+============================================
+Forces... (58 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 49--- Final residual = 9.26243e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 8.34374e-15
+============================================
+Time = 289 h
+Tumor cells = 964
+Normal cells = 5
+Total agents = 969
+Total cells left = 1463
+============================================
+Forces... (54 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 43--- Final residual = 7.85858e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 7.46336e-15
+============================================
+Time = 290 h
+Tumor cells = 961
+Normal cells = 5
+Total agents = 966
+Total cells left = 1474
+============================================
+Forces... (56 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 45--- Final residual = 7.41637e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 8.44571e-15
+============================================
+Time = 291 h
+Tumor cells = 964
+Normal cells = 4
+Total agents = 968
+Total cells left = 1486
+============================================
+Forces... (57 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 51--- Final residual = 8.49623e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 7.52396e-15
+============================================
+Time = 292 h
+Tumor cells = 963
+Normal cells = 4
+Total agents = 967
+Total cells left = 1500
+============================================
+Forces... (64 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 53--- Final residual = 7.50748e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 8.24813e-15
+============================================
+Time = 293 h
+Tumor cells = 953
+Normal cells = 4
+Total agents = 957
+Total cells left = 1510
+============================================
+Forces... (64 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 51--- Final residual = 9.53971e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 9.03681e-15
+============================================
+Time = 294 h
+Tumor cells = 941
+Normal cells = 3
+Total agents = 944
+Total cells left = 1522
+============================================
+Forces... (64 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 52--- Final residual = 5.12522e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 8.64317e-15
+============================================
+Time = 295 h
+Tumor cells = 934
+Normal cells = 3
+Total agents = 937
+Total cells left = 1529
+============================================
+Forces... (60 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 55--- Final residual = 6.41233e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 7.88292e-15
+============================================
+Time = 296 h
+Tumor cells = 925
+Normal cells = 3
+Total agents = 928
+Total cells left = 1537
+============================================
+Forces... (58 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 54--- Final residual = 5.7885e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 8.47741e-15
+============================================
+Time = 297 h
+Tumor cells = 920
+Normal cells = 3
+Total agents = 923
+Total cells left = 1542
+============================================
+Forces... (57 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 54--- Final residual = 6.21509e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 8.10982e-15
+============================================
+Time = 298 h
+Tumor cells = 916
+Normal cells = 3
+Total agents = 919
+Total cells left = 1546
+============================================
+Forces... (57 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 53--- Final residual = 5.51721e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 8.1878e-15
+============================================
+Time = 299 h
+Tumor cells = 911
+Normal cells = 3
+Total agents = 914
+Total cells left = 1550
+============================================
+Forces... (58 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 55--- Final residual = 4.79029e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 7.40924e-15
+============================================
+Time = 300 h
+Tumor cells = 908
+Normal cells = 3
+Total agents = 911
+Total cells left = 1553
+============================================
+Forces... (62 iterations)
+Reaction/Source term ...
+Oxygen Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 57--- Final residual = 4.4761e-08
+EGF Concentration...
+
+PMGMRES_ILU_CR --- Iterations = 1--- Final residual = 8.14621e-15
+
+real	2m42.153s
+user	6m56.368s
+sys	0m0.824s
