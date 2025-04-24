@@ -52,3 +52,5 @@ Our experiments have been performed using **C++ 7.5.0**, **Shell Script 5.0.16**
 ## Cite as
 
 NAOZUKA, G. T.; ROCHA, H. L.; ALMEIDA, R. C. Hybrid multiscale modeling of tumor growth with chemotherapeutic drug dispersion. In: _XLI Ibero-Latin-American Congress on Computational Methods in Engineering (CILAMCE)_. Foz do Iguaçu, PR: ABMEC, 2020. p. 1–7. ISSN 2675-6269. Available in: [https://publicacoes.softaliza.com.br/cilamce2020/article/view/6425](https://publicacoes.softaliza.com.br/cilamce2020/article/view/6425)
+
+Naozuka, G.T.; Rocha, H.L.; Almeida, R.C. Hybrid Multiscale Model, 2020. Version 1.0. Available online: [https://github.com/tmglncc/Hybrid_Multiscale_Model](https://github.com/tmglncc/Hybrid_Multiscale_Model) (accessed on 24 April 2025), doi: [10.5281/zenodo.15276349](10.5281/zenodo.15276349)
