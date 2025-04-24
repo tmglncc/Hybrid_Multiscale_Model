@@ -6,6 +6,8 @@ Cancer is a group of diseases characterized by complex phenomena across multiple
 
 ## Requirements
 
+Our experiments have been performed using **C++ 7.5.0**, **Shell Script 5.0.16**, and **Gnuplot 5.2**.
+
 ## Running experiments
 
 1. Clone this repository directly from terminal:
